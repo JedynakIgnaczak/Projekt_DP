@@ -1,4 +1,4 @@
 # Projekt_DP
 Autorzy:
-Kamila Jedynak
+Kamila Jedynak, 
 Adam Ignaczak
